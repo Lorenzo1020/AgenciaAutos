@@ -12,6 +12,9 @@ public class Principal {
 		
 		//Se realizan nuevos cambios agregando esta linea de codigo
 		List<Autos> listanueva= new ArrayList<Autos>();
+		
+		
+		//Se agrega esto para rectificar la nueva rama
 
 		long serie;
 		String placa;
