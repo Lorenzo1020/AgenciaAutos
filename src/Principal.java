@@ -1,3 +1,5 @@
+import java.util.ArrayList;
+import java.util.List;
 import java.util.Scanner;
 
 public class Principal {
@@ -7,6 +9,9 @@ public class Principal {
 
 		// Declarar las variables
 		Scanner lectura = null;
+		
+		//Se realizan nuevos cambios agregando esta linea de codigo
+		List<Autos> listanueva= new ArrayList<Autos>();
 
 		long serie;
 		String placa;
